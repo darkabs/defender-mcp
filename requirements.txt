@@ -1,0 +1,7 @@
+fastmcp
+msgraph-sdk
+azure-identity
+microsoft-kiota-abstractions
+httpx
+vt-py
+python-dotenv
